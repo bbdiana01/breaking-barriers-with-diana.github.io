@@ -1,0 +1,13 @@
+title: Breaking Barriers with Diana
+description: Amplifying Voices. Shattering Limits. Breaking Barriers.
+baseurl: "" # or "/breaking-barriers-with-diana" if not using username.github.io
+url: "https://username.github.io" # Replace with your URL
+collections:
+  posts:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
