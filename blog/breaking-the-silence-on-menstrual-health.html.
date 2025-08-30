@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breaking the Silence on Menstrual Health - Breaking Barriers with Diana</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about.html">About</a></li>
+            <li><a href="/media.html">Media</a></li>
+            <li><a href="/get-involved.html">Get Involved</a></li>
+            <li><a href="/contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <header>
+        <h1>Breaking the Silence on Menstrual Health: Why It Matters</h1>
+    </header>
+    <section>
+        <p>Menstrual hygiene is a basic right — yet millions of girls are missing school every month due to shame and lack of supplies. Diana explores how we can normalize periods and empower girls.</p>
+        <p>For too long, menstruation has been treated as a taboo. But silence only breeds stigma, and stigma leads to harm.</p>
+        <p>At *Breaking Barriers with Diana*, we are challenging that silence. This platform will shine a light on real stories — like the girls who found their voice, the communities that created change, and the myths we must dismantle.</p>
+        <p>Read. Share. Act. Together, we break the silence.</p>
+    </section>
+    <footer>
+        <p>Contact: <a href="mailto:breakingbarrierswithdiana@gmail.com">breakingbarrierswithdiana@gmail.com</a></p>
+        <p>Social Links:</p>
+        <ul>
+            <li>📘 <a href="https://facebook.com/BreakingBarriersWithDiana">Facebook</a></li>
+            <li>📸 <a href="https://instagram.com/BreakingBarriersWithDiana">Instagram</a></li>
+        </ul>
+        <p>© 2025 Breaking Barriers with Diana. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
