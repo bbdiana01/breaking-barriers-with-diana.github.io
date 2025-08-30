@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: username/breaking-barriers-with-diana # Replace with your repo name
+  branch: main
+media_folder: "assets" # Where images are stored
+public_folder: "/assets"
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Category", name: "category", widget: "select", options: ["Girls' Rights & Safety", "Women's Health & Wellness", "Leadership & Empowerment", "Her Stories", "Let's Talk!", "Diana's Journal", "Reels & Short Videos"] }
